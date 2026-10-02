@@ -487,18 +487,18 @@ export default function True3DExplodedStage() {
             ref={viewportRef}
             onMouseMove={handleMouseMove}
             onMouseLeave={handleMouseLeave}
-            className="lg:col-span-8 flex flex-col items-center justify-center p-4 sm:p-8 rounded-3xl bg-slate-950/60 border border-slate-800/80 relative min-h-[680px] overflow-hidden"
+            className="lg:col-span-8 flex flex-col items-center justify-center p-2 sm:p-6 rounded-3xl bg-slate-950/60 border border-slate-800/80 relative min-h-[700px] overflow-visible"
             style={{
-              perspective: '2200px',
-              perspectiveOrigin: '45% 45%',
+              perspective: '2500px',
+              perspectiveOrigin: '50% 50%',
             }}
           >
             {/* Ambient floor glow ellipse */}
             <div
-              className="absolute w-[800px] h-[520px] rounded-full pointer-events-none transition-all duration-700"
+              className="absolute w-[720px] h-[480px] rounded-full pointer-events-none transition-all duration-700"
               style={{
                 top: '55%',
-                left: '50%',
+                left: '46%',
                 transform: `translate(-50%, -50%) rotateX(68deg) translateZ(-80px)`,
                 background: 'radial-gradient(ellipse at center, rgba(56, 189, 248, 0.16) 0%, rgba(99, 102, 241, 0.08) 35%, transparent 70%)',
                 border: is3DMode ? '1px dashed rgba(56, 189, 248, 0.3)' : 'none',
@@ -508,12 +508,12 @@ export default function True3DExplodedStage() {
             {/* 3D SCENE STAGE (CARDS STACK) */}
             <div
               id="stage-3d-scene"
-              className="relative transition-transform duration-500 ease-out select-none"
+              className="relative transition-transform duration-500 ease-out select-none my-6"
               style={{
                 width: `${currentCase.stageWidth}px`,
                 height: `${currentCase.stageHeight}px`,
                 transformStyle: 'preserve-3d',
-                transform: `rotateY(${baseRotateY}deg) rotateX(${baseRotateX}deg) rotateZ(${baseRotateZ}deg) translateX(${stageTranslateX}px)`,
+                transform: `scale(${is3DMode ? 0.78 : 0.95}) rotateY(${baseRotateY}deg) rotateX(${baseRotateX}deg) rotateZ(${baseRotateZ}deg) translateX(${stageTranslateX - 25}px)`,
               }}
             >
               {/* ================= LAYER 4: INPAINTED BACKGROUND (BOTTOM) ================= */}
@@ -543,8 +543,8 @@ export default function True3DExplodedStage() {
                 {/* Floating Callout Tab 04 */}
                 {is3DMode && (
                   <div
-                    className="absolute top-4 right-0 translate-x-[108%] px-3.5 py-1.5 rounded-lg bg-slate-900/90 border border-slate-500/50 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
-                    style={{ transform: 'translate(105%, 0) translateZ(10px)' }}
+                    className="absolute top-4 right-0 px-3.5 py-1.5 rounded-lg bg-slate-900/95 border border-slate-500/50 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
+                    style={{ transform: 'translate(102%, 0) translateZ(15px)' }}
                   >
                     <span className="font-mono font-black text-slate-400 text-xs">04</span>
                     <span className="text-xs font-bold text-slate-200">{currentCase.l4_name}</span>
@@ -579,8 +579,8 @@ export default function True3DExplodedStage() {
                   {/* Floating Callout Tab 03 */}
                   {is3DMode && (
                     <div
-                      className="absolute top-20 right-0 translate-x-[108%] px-3.5 py-1.5 rounded-lg bg-slate-900/90 border border-cyan-500/50 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
-                      style={{ transform: 'translate(105%, 0) translateZ(10px)' }}
+                      className="absolute top-20 right-0 px-3.5 py-1.5 rounded-lg bg-slate-900/95 border border-cyan-500/50 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
+                      style={{ transform: 'translate(102%, 0) translateZ(15px)' }}
                     >
                       <span className="font-mono font-black text-cyan-400 text-xs">03</span>
                       <span className="text-xs font-bold text-slate-200">{currentCase.l3_name}</span>
@@ -613,8 +613,8 @@ export default function True3DExplodedStage() {
                   {/* Floating Callout Tab 02 */}
                   {is3DMode && (
                     <div
-                      className="absolute top-36 right-0 translate-x-[108%] px-3.5 py-1.5 rounded-lg bg-slate-900/90 border border-purple-500/50 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
-                      style={{ transform: 'translate(105%, 0) translateZ(10px)' }}
+                      className="absolute top-36 right-0 px-3.5 py-1.5 rounded-lg bg-slate-900/95 border border-purple-500/50 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
+                      style={{ transform: 'translate(102%, 0) translateZ(15px)' }}
                     >
                       <span className="font-mono font-black text-purple-400 text-xs">02</span>
                       <span className="text-xs font-bold text-slate-200">{currentCase.l2_name}</span>
@@ -639,8 +639,8 @@ export default function True3DExplodedStage() {
                 {/* Floating Callout Tab 01 */}
                 {is3DMode && (
                   <div
-                    className="absolute top-4 right-0 translate-x-[108%] px-3.5 py-1.5 rounded-lg bg-slate-900/90 border border-amber-500/60 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
-                    style={{ transform: 'translate(105%, 0) translateZ(10px)' }}
+                    className="absolute top-4 right-0 px-3.5 py-1.5 rounded-lg bg-slate-900/95 border border-amber-500/60 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
+                    style={{ transform: 'translate(102%, 0) translateZ(15px)' }}
                   >
                     <span className="font-mono font-black text-amber-400 text-xs">01</span>
                     <span className="text-xs font-bold text-amber-200">{currentCase.l1_name}</span>

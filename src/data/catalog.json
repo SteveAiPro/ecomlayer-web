@@ -1,0 +1,2322 @@
+[
+  {
+    "index": 1,
+    "id": "b1",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Hyaluronic Hydrating Serum",
+    "brand": "GlowLab",
+    "type": "精华液",
+    "keyword": "hydrating serum",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • GLOWLAB",
+        "h1": "Professional 精华液",
+        "h2": "Hyaluronic Hydrating Serum",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • GlowLab",
+        "h1": "专业级 精华液",
+        "h2": "GlowLab 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • GlowLab",
+        "h1": "プロ仕様 精华液",
+        "h2": "GlowLab 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • GlowLab",
+        "h1": "精华液 Profesional",
+        "h2": "GlowLab Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 2,
+    "id": "b2",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Matte Velvet Lipstick",
+    "brand": "VelvetChic",
+    "type": "口红唇釉",
+    "keyword": "matte lipstick",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • VELVETCHIC",
+        "h1": "Professional 口红唇釉",
+        "h2": "Matte Velvet Lipstick",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • VelvetChic",
+        "h1": "专业级 口红唇釉",
+        "h2": "VelvetChic 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • VelvetChic",
+        "h1": "プロ仕様 口红唇釉",
+        "h2": "VelvetChic 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • VelvetChic",
+        "h1": "口红唇釉 Profesional",
+        "h2": "VelvetChic Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 3,
+    "id": "b3",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "Vitamin C Brightening Eye Cream",
+    "brand": "LumiEye",
+    "type": "抗老眼霜",
+    "keyword": "brightening eye cream",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • LUMIEYE",
+        "h1": "Professional 抗老眼霜",
+        "h2": "Vitamin C Brightening Eye Cream",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • LumiEye",
+        "h1": "专业级 抗老眼霜",
+        "h2": "LumiEye 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • LumiEye",
+        "h1": "プロ仕様 抗老眼霜",
+        "h2": "LumiEye 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • LumiEye",
+        "h1": "抗老眼霜 Profesional",
+        "h2": "LumiEye Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 4,
+    "id": "b4",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Oil-Control Mineral Sunscreen SPF50+",
+    "brand": "SunShield",
+    "type": "防晒乳",
+    "keyword": "mineral sunscreen",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • SUNSHIELD",
+        "h1": "Professional 防晒乳",
+        "h2": "Oil-Control Mineral Sunscreen SPF50+",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • SunShield",
+        "h1": "专业级 防晒乳",
+        "h2": "SunShield 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • SunShield",
+        "h1": "プロ仕様 防晒乳",
+        "h2": "SunShield 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • SunShield",
+        "h1": "防晒乳 Profesional",
+        "h2": "SunShield Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 5,
+    "id": "b5",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Salicylic Acid Pore Cleanser",
+    "brand": "ClearDerm",
+    "type": "氨基酸洁面",
+    "keyword": "pore cleanser",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • CLEARDERM",
+        "h1": "Professional 氨基酸洁面",
+        "h2": "Salicylic Acid Pore Cleanser",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • ClearDerm",
+        "h1": "专业级 氨基酸洁面",
+        "h2": "ClearDerm 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • ClearDerm",
+        "h1": "プロ仕様 氨基酸洁面",
+        "h2": "ClearDerm 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • ClearDerm",
+        "h1": "氨基酸洁面 Profesional",
+        "h2": "ClearDerm Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 6,
+    "id": "b6",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Repairing Hair Treatment Mask",
+    "brand": "SilkStrand",
+    "type": "发膜护理",
+    "keyword": "hair repair mask",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • SILKSTRAND",
+        "h1": "Professional 发膜护理",
+        "h2": "Repairing Hair Treatment Mask",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • SilkStrand",
+        "h1": "专业级 发膜护理",
+        "h2": "SilkStrand 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • SilkStrand",
+        "h1": "プロ仕様 发膜护理",
+        "h2": "SilkStrand 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • SilkStrand",
+        "h1": "发膜护理 Profesional",
+        "h2": "SilkStrand Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 7,
+    "id": "b7",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "Botanical Soothing Facial Toner",
+    "brand": "PureFlora",
+    "type": "舒缓爽肤水",
+    "keyword": "facial toner",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • PUREFLORA",
+        "h1": "Professional 舒缓爽肤水",
+        "h2": "Botanical Soothing Facial Toner",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • PureFlora",
+        "h1": "专业级 舒缓爽肤水",
+        "h2": "PureFlora 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • PureFlora",
+        "h1": "プロ仕様 舒缓爽肤水",
+        "h2": "PureFlora 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • PureFlora",
+        "h1": "舒缓爽肤水 Profesional",
+        "h2": "PureFlora Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 8,
+    "id": "b8",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Niacinamide Body Lotion",
+    "brand": "SkinNourish",
+    "type": "美白身体乳",
+    "keyword": "niacinamide lotion",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • SKINNOURISH",
+        "h1": "Professional 美白身体乳",
+        "h2": "Niacinamide Body Lotion",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • SkinNourish",
+        "h1": "专业级 美白身体乳",
+        "h2": "SkinNourish 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • SkinNourish",
+        "h1": "プロ仕様 美白身体乳",
+        "h2": "SkinNourish 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • SkinNourish",
+        "h1": "美白身体乳 Profesional",
+        "h2": "SkinNourish Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 9,
+    "id": "b9",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Waterproof Volumizing Mascara",
+    "brand": "LashLift",
+    "type": "睫毛膏",
+    "keyword": "waterproof mascara",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • LASHLIFT",
+        "h1": "Professional 睫毛膏",
+        "h2": "Waterproof Volumizing Mascara",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • LashLift",
+        "h1": "专业级 睫毛膏",
+        "h2": "LashLift 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • LashLift",
+        "h1": "プロ仕様 睫毛膏",
+        "h2": "LashLift 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • LashLift",
+        "h1": "睫毛膏 Profesional",
+        "h2": "LashLift Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 10,
+    "id": "b10",
+    "category_id": "beauty_cosmetics",
+    "category_name": "美妆个护 (Beauty & Skincare)",
+    "category_badge": "美妆个护 • Skincare & Beauty",
+    "accent": "#ec4899",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Rosewater Hydration Mist Spray",
+    "brand": "DewDrops",
+    "type": "补水喷雾",
+    "keyword": "hydration mist",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • DEWDROPS",
+        "h1": "Professional 补水喷雾",
+        "h2": "Rosewater Hydration Mist Spray",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • DewDrops",
+        "h1": "专业级 补水喷雾",
+        "h2": "DewDrops 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • DewDrops",
+        "h1": "プロ仕様 补水喷雾",
+        "h2": "DewDrops 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • DewDrops",
+        "h1": "补水喷雾 Profesional",
+        "h2": "DewDrops Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 11,
+    "id": "e1",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "Active Noise Cancelling Wireless Earbuds",
+    "brand": "AeroTune",
+    "type": "降噪蓝牙耳机",
+    "keyword": "wireless earbuds",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • AEROTUNE",
+        "h1": "Professional 降噪蓝牙耳机",
+        "h2": "Active Noise Cancelling Wireless Earbuds",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • AeroTune",
+        "h1": "专业级 降噪蓝牙耳机",
+        "h2": "AeroTune 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • AeroTune",
+        "h1": "プロ仕様 降噪蓝牙耳机",
+        "h2": "AeroTune 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • AeroTune",
+        "h1": "降噪蓝牙耳机 Profesional",
+        "h2": "AeroTune Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 12,
+    "id": "e2",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Ultra-Slim MagSafe Power Bank 10000mAh",
+    "brand": "VoltCore",
+    "type": "磁吸充电宝",
+    "keyword": "magsafe power bank",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • VOLTCORE",
+        "h1": "Professional 磁吸充电宝",
+        "h2": "Ultra-Slim MagSafe Power Bank 10000mAh",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • VoltCore",
+        "h1": "专业级 磁吸充电宝",
+        "h2": "VoltCore 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • VoltCore",
+        "h1": "プロ仕様 磁吸充电宝",
+        "h2": "VoltCore 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • VoltCore",
+        "h1": "磁吸充电宝 Profesional",
+        "h2": "VoltCore Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 13,
+    "id": "e3",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Smart Fitness Tracker with AMOLED Display",
+    "brand": "FitPulse",
+    "type": "智能运动手表",
+    "keyword": "smart fitness watch",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • FITPULSE",
+        "h1": "Professional 智能运动手表",
+        "h2": "Smart Fitness Tracker with AMOLED Display",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • FitPulse",
+        "h1": "专业级 智能运动手表",
+        "h2": "FitPulse 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • FitPulse",
+        "h1": "プロ仕様 智能运动手表",
+        "h2": "FitPulse 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • FitPulse",
+        "h1": "智能运动手表 Profesional",
+        "h2": "FitPulse Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 14,
+    "id": "e4",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Ergonomic Vertical Wireless Mouse",
+    "brand": "ErgoGrip",
+    "type": "人体工学鼠标",
+    "keyword": "ergonomic mouse",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • ERGOGRIP",
+        "h1": "Professional 人体工学鼠标",
+        "h2": "Ergonomic Vertical Wireless Mouse",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • ErgoGrip",
+        "h1": "专业级 人体工学鼠标",
+        "h2": "ErgoGrip 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • ErgoGrip",
+        "h1": "プロ仕様 人体工学鼠标",
+        "h2": "ErgoGrip 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • ErgoGrip",
+        "h1": "人体工学鼠标 Profesional",
+        "h2": "ErgoGrip Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 15,
+    "id": "e5",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "Fast Charging 65W GaN Travel Adapter",
+    "brand": "SpeedGaN",
+    "type": "氮化镓快充头",
+    "keyword": "gan charger 65w",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • SPEEDGAN",
+        "h1": "Professional 氮化镓快充头",
+        "h2": "Fast Charging 65W GaN Travel Adapter",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • SpeedGaN",
+        "h1": "专业级 氮化镓快充头",
+        "h2": "SpeedGaN 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • SpeedGaN",
+        "h1": "プロ仕様 氮化镓快充头",
+        "h2": "SpeedGaN 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • SpeedGaN",
+        "h1": "氮化镓快充头 Profesional",
+        "h2": "SpeedGaN Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 16,
+    "id": "e6",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Portable Waterproof Bluetooth Speaker",
+    "brand": "BoomWave",
+    "type": "户外防水音箱",
+    "keyword": "bluetooth speaker",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • BOOMWAVE",
+        "h1": "Professional 户外防水音箱",
+        "h2": "Portable Waterproof Bluetooth Speaker",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • BoomWave",
+        "h1": "专业级 户外防水音箱",
+        "h2": "BoomWave 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • BoomWave",
+        "h1": "プロ仕様 户外防水音箱",
+        "h2": "BoomWave 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • BoomWave",
+        "h1": "户外防水音箱 Profesional",
+        "h2": "BoomWave Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 17,
+    "id": "e7",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Mechanical Gaming Keyboard RGB",
+    "brand": "KeyCraft",
+    "type": "RGB机械键盘",
+    "keyword": "gaming keyboard",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • KEYCRAFT",
+        "h1": "Professional RGB机械键盘",
+        "h2": "Mechanical Gaming Keyboard RGB",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • KeyCraft",
+        "h1": "专业级 RGB机械键盘",
+        "h2": "KeyCraft 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • KeyCraft",
+        "h1": "プロ仕様 RGB机械键盘",
+        "h2": "KeyCraft 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • KeyCraft",
+        "h1": "RGB机械键盘 Profesional",
+        "h2": "KeyCraft Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 18,
+    "id": "e8",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Foldable Drone with 4K UHD Camera",
+    "brand": "SkyView",
+    "type": "4K折叠无人机",
+    "keyword": "4k drone camera",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • SKYVIEW",
+        "h1": "Professional 4K折叠无人机",
+        "h2": "Foldable Drone with 4K UHD Camera",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • SkyView",
+        "h1": "专业级 4K折叠无人机",
+        "h2": "SkyView 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • SkyView",
+        "h1": "プロ仕様 4K折叠无人机",
+        "h2": "SkyView 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • SkyView",
+        "h1": "4K折叠无人机 Profesional",
+        "h2": "SkyView Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 19,
+    "id": "e9",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "USB-C 10-in-1 Dual Display Docking Station",
+    "brand": "PortMaster",
+    "type": "多功能扩展坞",
+    "keyword": "usb c docking station",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • PORTMASTER",
+        "h1": "Professional 多功能扩展坞",
+        "h2": "USB-C 10-in-1 Dual Display Docking Station",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • PortMaster",
+        "h1": "专业级 多功能扩展坞",
+        "h2": "PortMaster 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • PortMaster",
+        "h1": "プロ仕様 多功能扩展坞",
+        "h2": "PortMaster 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • PortMaster",
+        "h1": "多功能扩展坞 Profesional",
+        "h2": "PortMaster Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 20,
+    "id": "e10",
+    "category_id": "electronics_3c",
+    "category_name": "数码 3C (Electronics & Gadgets)",
+    "category_badge": "数码 3C • Gadgets & Tech",
+    "accent": "#06b6d4",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Ring Light Tripod Kit for Live Stream",
+    "brand": "StreamGlow",
+    "type": "直播补光环形灯",
+    "keyword": "ring light kit",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • STREAMGLOW",
+        "h1": "Professional 直播补光环形灯",
+        "h2": "Ring Light Tripod Kit for Live Stream",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • StreamGlow",
+        "h1": "专业级 直播补光环形灯",
+        "h2": "StreamGlow 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • StreamGlow",
+        "h1": "プロ仕様 直播补光环形灯",
+        "h2": "StreamGlow 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • StreamGlow",
+        "h1": "直播补光环形灯 Profesional",
+        "h2": "StreamGlow Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 21,
+    "id": "f1",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Breathable Mesh Lightweight Running Shoes",
+    "brand": "AeroStride",
+    "type": "轻量透气跑鞋",
+    "keyword": "running shoes mesh",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • AEROSTRIDE",
+        "h1": "Professional 轻量透气跑鞋",
+        "h2": "Breathable Mesh Lightweight Running Shoes",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • AeroStride",
+        "h1": "专业级 轻量透气跑鞋",
+        "h2": "AeroStride 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • AeroStride",
+        "h1": "プロ仕様 轻量透气跑鞋",
+        "h2": "AeroStride 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • AeroStride",
+        "h1": "轻量透气跑鞋 Profesional",
+        "h2": "AeroStride Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 22,
+    "id": "f2",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Minimalist Waterproof Commuter Backpack",
+    "brand": "UrbanPack",
+    "type": "防水通勤双肩包",
+    "keyword": "commuter backpack",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • URBANPACK",
+        "h1": "Professional 防水通勤双肩包",
+        "h2": "Minimalist Waterproof Commuter Backpack",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • UrbanPack",
+        "h1": "专业级 防水通勤双肩包",
+        "h2": "UrbanPack 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • UrbanPack",
+        "h1": "プロ仕様 防水通勤双肩包",
+        "h2": "UrbanPack 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • UrbanPack",
+        "h1": "防水通勤双肩包 Profesional",
+        "h2": "UrbanPack Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 23,
+    "id": "f3",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "Seamless High-Waist Yoga Leggings",
+    "brand": "FlexZen",
+    "type": "高腰无缝瑜伽裤",
+    "keyword": "yoga leggings",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • FLEXZEN",
+        "h1": "Professional 高腰无缝瑜伽裤",
+        "h2": "Seamless High-Waist Yoga Leggings",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • FlexZen",
+        "h1": "专业级 高腰无缝瑜伽裤",
+        "h2": "FlexZen 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • FlexZen",
+        "h1": "プロ仕様 高腰无缝瑜伽裤",
+        "h2": "FlexZen 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • FlexZen",
+        "h1": "高腰无缝瑜伽裤 Profesional",
+        "h2": "FlexZen Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 24,
+    "id": "f4",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Classic Polarized Aviator Sunglasses",
+    "brand": "RayShield",
+    "type": "偏光飞行员墨镜",
+    "keyword": "polarized sunglasses",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • RAYSHIELD",
+        "h1": "Professional 偏光飞行员墨镜",
+        "h2": "Classic Polarized Aviator Sunglasses",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • RayShield",
+        "h1": "专业级 偏光飞行员墨镜",
+        "h2": "RayShield 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • RayShield",
+        "h1": "プロ仕様 偏光飞行员墨镜",
+        "h2": "RayShield 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • RayShield",
+        "h1": "偏光飞行员墨镜 Profesional",
+        "h2": "RayShield Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 25,
+    "id": "f5",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Genuine Leather Vintage Bifold Wallet",
+    "brand": "HeritageCraft",
+    "type": "复古真皮钱包",
+    "keyword": "leather wallet",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • HERITAGECRAFT",
+        "h1": "Professional 复古真皮钱包",
+        "h2": "Genuine Leather Vintage Bifold Wallet",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • HeritageCraft",
+        "h1": "专业级 复古真皮钱包",
+        "h2": "HeritageCraft 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • HeritageCraft",
+        "h1": "プロ仕様 复古真皮钱包",
+        "h2": "HeritageCraft 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • HeritageCraft",
+        "h1": "复古真皮钱包 Profesional",
+        "h2": "HeritageCraft Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 26,
+    "id": "f6",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Thermal Fleece Windproof Outdoor Jacket",
+    "brand": "ApexPeak",
+    "type": "防风抓绒冲锋衣",
+    "keyword": "windproof jacket",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • APEXPEAK",
+        "h1": "Professional 防风抓绒冲锋衣",
+        "h2": "Thermal Fleece Windproof Outdoor Jacket",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • ApexPeak",
+        "h1": "专业级 防风抓绒冲锋衣",
+        "h2": "ApexPeak 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • ApexPeak",
+        "h1": "プロ仕様 防风抓绒冲锋衣",
+        "h2": "ApexPeak 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • ApexPeak",
+        "h1": "防风抓绒冲锋衣 Profesional",
+        "h2": "ApexPeak Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 27,
+    "id": "f7",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "Silk Feeling Casual Graphic Shirt",
+    "brand": "SilkTouch",
+    "type": "丝光印花衬衫",
+    "keyword": "silk graphic shirt",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • SILKTOUCH",
+        "h1": "Professional 丝光印花衬衫",
+        "h2": "Silk Feeling Casual Graphic Shirt",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • SilkTouch",
+        "h1": "专业级 丝光印花衬衫",
+        "h2": "SilkTouch 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • SilkTouch",
+        "h1": "プロ仕様 丝光印花衬衫",
+        "h2": "SilkTouch 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • SilkTouch",
+        "h1": "丝光印花衬衫 Profesional",
+        "h2": "SilkTouch Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 28,
+    "id": "f8",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Comfort Memory Foam House Slippers",
+    "brand": "CloudWalk",
+    "type": "慢回弹居家拖鞋",
+    "keyword": "memory foam slippers",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • CLOUDWALK",
+        "h1": "Professional 慢回弹居家拖鞋",
+        "h2": "Comfort Memory Foam House Slippers",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • CloudWalk",
+        "h1": "专业级 慢回弹居家拖鞋",
+        "h2": "CloudWalk 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • CloudWalk",
+        "h1": "プロ仕様 慢回弹居家拖鞋",
+        "h2": "CloudWalk 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • CloudWalk",
+        "h1": "慢回弹居家拖鞋 Profesional",
+        "h2": "CloudWalk Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 29,
+    "id": "f9",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Waterproof Chronograph Sports Watch",
+    "brand": "NauticTime",
+    "type": "防水三眼计时表",
+    "keyword": "sports chronograph",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • NAUTICTIME",
+        "h1": "Professional 防水三眼计时表",
+        "h2": "Waterproof Chronograph Sports Watch",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • NauticTime",
+        "h1": "专业级 防水三眼计时表",
+        "h2": "NauticTime 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • NauticTime",
+        "h1": "プロ仕様 防水三眼计时表",
+        "h2": "NauticTime 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • NauticTime",
+        "h1": "防水三眼计时表 Profesional",
+        "h2": "NauticTime Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 30,
+    "id": "f10",
+    "category_id": "fashion_shoes",
+    "category_name": "服饰鞋包 (Fashion & Apparel)",
+    "category_badge": "服饰鞋包 • Fashion & Apparel",
+    "accent": "#f59e0b",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Structured Canvas Tote Bag with Pockets",
+    "brand": "EcoCarry",
+    "type": "大容量帆布托特包",
+    "keyword": "canvas tote bag",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • ECOCARRY",
+        "h1": "Professional 大容量帆布托特包",
+        "h2": "Structured Canvas Tote Bag with Pockets",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • EcoCarry",
+        "h1": "专业级 大容量帆布托特包",
+        "h2": "EcoCarry 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • EcoCarry",
+        "h1": "プロ仕様 大容量帆布托特包",
+        "h2": "EcoCarry 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • EcoCarry",
+        "h1": "大容量帆布托特包 Profesional",
+        "h2": "EcoCarry Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 31,
+    "id": "h1",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "Precision Gooseneck Electric Pour-Over Kettle",
+    "brand": "BaristaPro",
+    "type": "恒温手冲咖啡壶",
+    "keyword": "electric pour over kettle",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • BARISTAPRO",
+        "h1": "Professional 恒温手冲咖啡壶",
+        "h2": "Precision Gooseneck Electric Pour-Over Kettle",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • BaristaPro",
+        "h1": "专业级 恒温手冲咖啡壶",
+        "h2": "BaristaPro 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • BaristaPro",
+        "h1": "プロ仕様 恒温手冲咖啡壶",
+        "h2": "BaristaPro 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • BaristaPro",
+        "h1": "恒温手冲咖啡壶 Profesional",
+        "h2": "BaristaPro Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 32,
+    "id": "h2",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Aroma Essential Oil Ultrasonic Diffuser",
+    "brand": "AuraMist",
+    "type": "超声波香薰加湿机",
+    "keyword": "essential oil diffuser",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • AURAMIST",
+        "h1": "Professional 超声波香薰加湿机",
+        "h2": "Aroma Essential Oil Ultrasonic Diffuser",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • AuraMist",
+        "h1": "专业级 超声波香薰加湿机",
+        "h2": "AuraMist 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • AuraMist",
+        "h1": "プロ仕様 超声波香薰加湿机",
+        "h2": "AuraMist 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • AuraMist",
+        "h1": "超声波香薰加湿机 Profesional",
+        "h2": "AuraMist Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 33,
+    "id": "h3",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Insulated Stainless Steel Tumbler 32oz",
+    "brand": "HydroFlask",
+    "type": "双层真空保温杯",
+    "keyword": "insulated tumbler bottle",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • HYDROFLASK",
+        "h1": "Professional 双层真空保温杯",
+        "h2": "Insulated Stainless Steel Tumbler 32oz",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • HydroFlask",
+        "h1": "专业级 双层真空保温杯",
+        "h2": "HydroFlask 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • HydroFlask",
+        "h1": "プロ仕様 双层真空保温杯",
+        "h2": "HydroFlask 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • HydroFlask",
+        "h1": "双层真空保温杯 Profesional",
+        "h2": "HydroFlask Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 34,
+    "id": "h4",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Non-Stick Ceramic Coating Frying Pan",
+    "brand": "CookMaster",
+    "type": "陶瓷不粘煎锅",
+    "keyword": "ceramic frying pan",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • COOKMASTER",
+        "h1": "Professional 陶瓷不粘煎锅",
+        "h2": "Non-Stick Ceramic Coating Frying Pan",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • CookMaster",
+        "h1": "专业级 陶瓷不粘煎锅",
+        "h2": "CookMaster 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • CookMaster",
+        "h1": "プロ仕様 陶瓷不粘煎锅",
+        "h2": "CookMaster 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • CookMaster",
+        "h1": "陶瓷不粘煎锅 Profesional",
+        "h2": "CookMaster Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 35,
+    "id": "h5",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "Smart Air Purifier with HEPA Filter",
+    "brand": "PureAir",
+    "type": "智能HEPA空气净化器",
+    "keyword": "smart air purifier",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • PUREAIR",
+        "h1": "Professional 智能HEPA空气净化器",
+        "h2": "Smart Air Purifier with HEPA Filter",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • PureAir",
+        "h1": "专业级 智能HEPA空气净化器",
+        "h2": "PureAir 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • PureAir",
+        "h1": "プロ仕様 智能HEPA空气净化器",
+        "h2": "PureAir 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • PureAir",
+        "h1": "智能HEPA空气净化器 Profesional",
+        "h2": "PureAir Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 36,
+    "id": "h6",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Cordless Deep Tissue Percussion Massage Gun",
+    "brand": "MuscleRelief",
+    "type": "深层肌肉筋膜枪",
+    "keyword": "massage gun deep tissue",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • MUSCLERELIEF",
+        "h1": "Professional 深层肌肉筋膜枪",
+        "h2": "Cordless Deep Tissue Percussion Massage Gun",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • MuscleRelief",
+        "h1": "专业级 深层肌肉筋膜枪",
+        "h2": "MuscleRelief 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • MuscleRelief",
+        "h1": "プロ仕様 深层肌肉筋膜枪",
+        "h2": "MuscleRelief 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • MuscleRelief",
+        "h1": "深层肌肉筋膜枪 Profesional",
+        "h2": "MuscleRelief Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 37,
+    "id": "h7",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "replace-text",
+    "lp_label": "改文案与参数 (Replace Text)",
+    "title": "Automatic Pet Feeder with HD Camera",
+    "brand": "PetHaven",
+    "type": "可视智能宠物喂食器",
+    "keyword": "automatic pet feeder",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • PETHAVEN",
+        "h1": "Professional 可视智能宠物喂食器",
+        "h2": "Automatic Pet Feeder with HD Camera",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • PetHaven",
+        "h1": "专业级 可视智能宠物喂食器",
+        "h2": "PetHaven 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • PetHaven",
+        "h1": "プロ仕様 可视智能宠物喂食器",
+        "h2": "PetHaven 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • PetHaven",
+        "h1": "可视智能宠物喂食器 Profesional",
+        "h2": "PetHaven Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 38,
+    "id": "h8",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "translate",
+    "lp_label": "多语言翻译 (Translate)",
+    "title": "Electric Sonic Toothbrush with Travel Case",
+    "brand": "SonicSmile",
+    "type": "声波电动牙刷",
+    "keyword": "electric sonic toothbrush",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • SONICSMILE",
+        "h1": "Professional 声波电动牙刷",
+        "h2": "Electric Sonic Toothbrush with Travel Case",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • SonicSmile",
+        "h1": "专业级 声波电动牙刷",
+        "h2": "SonicSmile 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • SonicSmile",
+        "h1": "プロ仕様 声波电动牙刷",
+        "h2": "SonicSmile 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • SonicSmile",
+        "h1": "声波电动牙刷 Profesional",
+        "h2": "SonicSmile Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 39,
+    "id": "h9",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "remove-logo",
+    "lp_label": "去Logo水印 (Remove Logo)",
+    "title": "LED Eye-Care Architect Desk Lamp",
+    "brand": "LumiDesk",
+    "type": "护眼双臂台灯",
+    "keyword": "eye care desk lamp",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • LUMIDESK",
+        "h1": "Professional 护眼双臂台灯",
+        "h2": "LED Eye-Care Architect Desk Lamp",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • LumiDesk",
+        "h1": "专业级 护眼双臂台灯",
+        "h2": "LumiDesk 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • LumiDesk",
+        "h1": "プロ仕様 护眼双臂台灯",
+        "h2": "LumiDesk 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • LumiDesk",
+        "h1": "护眼双臂台灯 Profesional",
+        "h2": "LumiDesk Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  },
+  {
+    "index": 40,
+    "id": "h10",
+    "category_id": "home_kitchen",
+    "category_name": "家居厨电 (Home & Kitchen & Lifestyle)",
+    "category_badge": "家居生活 • Home & Living",
+    "accent": "#10b981",
+    "lp_slug": "white-background",
+    "lp_label": "换亚马逊白底 (White Bg)",
+    "title": "Reusable Silicone Food Storage Bags Set",
+    "brand": "GreenSeal",
+    "type": "可重复硅胶保鲜袋",
+    "keyword": "silicone food bags",
+    "translations": {
+      "en": {
+        "tag": "FEATURED • GREENSEAL",
+        "h1": "Professional 可重复硅胶保鲜袋",
+        "h2": "Reusable Silicone Food Storage Bags Set",
+        "p1_title": "Premium Performance",
+        "p1_desc": "Engineered for daily use with top-grade materials.",
+        "p2_title": "Certified Safe",
+        "p2_desc": "Tested by third-party global safety lab benchmarks.",
+        "cta": "SHOP NOW"
+      },
+      "zh": {
+        "tag": "官方正品 • GreenSeal",
+        "h1": "专业级 可重复硅胶保鲜袋",
+        "h2": "GreenSeal 旗舰新款 现货热销",
+        "p1_title": "卓越性能指标",
+        "p1_desc": "采用严选高品质航天/食品级原材，全天候耐用稳定。",
+        "p2_title": "国际安全权威认证",
+        "p2_desc": "通过第三方欧美实验室严苛质检与安全标准认证。",
+        "cta": "立即选购"
+      },
+      "ja": {
+        "tag": "公式ストア • GreenSeal",
+        "h1": "プロ仕様 可重复硅胶保鲜袋",
+        "h2": "GreenSeal 新世代プレミアム",
+        "p1_title": "圧倒的な高性能",
+        "p1_desc": "最高峰の耐久性と心地よい体験を追求した革新設計。",
+        "p2_title": "国際安全基準クリア",
+        "p2_desc": "第三者機関による厳格な品質試験・認証を取得済み。",
+        "cta": "今すぐ購入"
+      },
+      "es": {
+        "tag": "OFICIAL • GreenSeal",
+        "h1": "可重复硅胶保鲜袋 Profesional",
+        "h2": "GreenSeal Nueva Colección",
+        "p1_title": "Rendimiento Superior",
+        "p1_desc": "Diseñado para máxima durabilidad y eficiencia diaria.",
+        "p2_title": "Certificación Global",
+        "p2_desc": "Aprobado bajo estrictos estándares de laboratorios mundiales.",
+        "cta": "COMPRAR AHORA"
+      }
+    },
+    "initial_logo_hidden": false,
+    "initial_white_bg": false
+  }
+]

@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import AmazonShowcase from '@/components/AmazonShowcase';
 import DemoMatrix from '@/components/DemoMatrix';
 import { ArrowRight, Sparkles, Layers, ShieldCheck, CheckCircle2, Zap } from 'lucide-react';
 
@@ -29,18 +30,18 @@ export default function HomePage() {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
           <Link
-            href="#demos"
+            href="#amazon-live"
             className="w-full sm:w-auto px-8 py-3.5 rounded-xl font-bold text-sm bg-gradient-to-r from-blue-600 via-indigo-600 to-cyan-500 hover:from-blue-500 hover:to-cyan-400 text-white shadow-lg shadow-blue-500/25 flex items-center justify-center gap-2 transition-all hover:scale-[1.02]"
           >
             <Zap className="w-4 h-4" />
-            <span>Explore 40 Live Demos</span>
+            <span>体验真实亚马逊图 3D 分解</span>
             <ArrowRight className="w-4 h-4" />
           </Link>
           <Link
-            href="/replace-text"
+            href="#demos"
             className="w-full sm:w-auto px-6 py-3.5 rounded-xl font-semibold text-sm bg-slate-900 border border-slate-700/80 hover:border-slate-600 text-slate-200 transition-colors"
           >
-            Learn How It Works
+            浏览 40 款品类演示
           </Link>
         </div>
 
@@ -57,6 +58,11 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* Flagship Section 1: Real Amazon Official Live Banners */}
+      <div id="amazon-live">
+        <AmazonShowcase />
+      </div>
 
       {/* 4 Core Pillars Section */}
       <section className="py-16 bg-[#0a0f1d] border-t border-slate-800">

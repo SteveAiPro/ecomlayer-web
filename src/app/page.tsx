@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import True3DExplodedStage from '@/components/True3DExplodedStage';
 import AmazonShowcase from '@/components/AmazonShowcase';
 import DemoMatrix from '@/components/DemoMatrix';
 import { ArrowRight, Sparkles, Layers, ShieldCheck, CheckCircle2, Zap } from 'lucide-react';
@@ -30,11 +31,11 @@ export default function HomePage() {
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">
           <Link
-            href="#amazon-live"
+            href="#amazon-3d-stage"
             className="w-full sm:w-auto px-8 py-3.5 rounded-xl font-bold text-sm bg-gradient-to-r from-blue-600 via-indigo-600 to-cyan-500 hover:from-blue-500 hover:to-cyan-400 text-white shadow-lg shadow-blue-500/25 flex items-center justify-center gap-2 transition-all hover:scale-[1.02]"
           >
             <Zap className="w-4 h-4" />
-            <span>体验真实亚马逊图 3D 分解</span>
+            <span>体验真实电商图 3D 分层与在线改字</span>
             <ArrowRight className="w-4 h-4" />
           </Link>
           <Link
@@ -59,7 +60,12 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Flagship Section 1: Real Amazon Official Live Banners */}
+      {/* Flagship Section: True 3D Exploded Layer Decomposition Stage */}
+      <div id="amazon-3d-stage">
+        <True3DExplodedStage />
+      </div>
+
+      {/* Real Amazon Official Multi-Card Grid */}
       <div id="amazon-live">
         <AmazonShowcase />
       </div>

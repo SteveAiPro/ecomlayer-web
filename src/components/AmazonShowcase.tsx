@@ -5,18 +5,22 @@ import { Sparkles, Layers, Globe, Shield, Download, RefreshCw, ZoomIn, CheckCirc
 
 interface AmazonCardItem {
   id: string;
+  asin: string;
+  categoryName: string;
   tag: string;
   titleEn: string;
   subEn: string;
   titleZh: string;
   subZh: string;
+  feature1En?: string;
+  feature1Zh?: string;
+  feature2En?: string;
+  feature2Zh?: string;
   btnEn: string;
   btnZh: string;
-  bgClass: string;
   bgImg: string;
   productImg: string;
   logoImg?: string;
-  iconsImg?: string;
   brand: string;
   lpType: string;
   lpBadge: string;
@@ -24,75 +28,99 @@ interface AmazonCardItem {
 
 const amazonCards: AmazonCardItem[] = [
   {
-    id: 'amazon_b2',
-    tag: 'Only on Amazon',
-    titleEn: 'Shop the polka\ndot collection',
-    subEn: 'Tumblers & Jugs',
-    titleZh: '亚马逊独家首发\n波点经典款系列',
-    subZh: '双层真空保温吸管杯',
-    btnEn: 'EXPLORE HYDROJUG',
-    btnZh: '立即抢购',
-    bgClass: 'bg-[#f4d072]',
-    bgImg: '/amazon_official/b2_bg.png',
-    productImg: '/amazon_official/b2_product.png',
-    logoImg: '/amazon_official/b2_logo.png',
-    brand: 'HYDROJUG',
+    id: 'amazon_anker',
+    asin: 'B0CZ9LH53B',
+    categoryName: '数码 3C • Anker 官方 A+ 详情图',
+    tag: '⚡️ 30W High-Speed Charging',
+    titleEn: 'Supports Samsung\nFast Charging',
+    subEn: 'Charge iPhone 16 Pro Max to 50% in 26 Min',
+    titleZh: '支持三星 30W\n疾速双向超级闪充',
+    subZh: 'iPhone 16 Pro Max 26分钟极速充至50%',
+    feature1En: '2X Faster than 15W',
+    feature1Zh: '充电速度比普通15W快2倍',
+    feature2En: '12.45 oz Ultra-Lightweight',
+    feature2Zh: '机身净重仅 350g 超轻便携',
+    btnEn: 'COMPARE SPECS',
+    btnZh: '查看参数对比',
+    bgImg: '/amazon_real_layers/anker_bg.png',
+    productImg: '/amazon_real_layers/anker_product.png',
+    brand: 'ANKER',
     lpType: 'replace-text',
-    lpBadge: '✏️ 真实文字在线替换',
+    lpBadge: '✏️ 充电功率/参数直接打字修改',
   },
   {
-    id: 'amazon_b1',
-    tag: 'Exclusively for members',
-    titleEn: 'Prime Big Deals\ndrop Oct 6-7',
-    subEn: 'Save up to 60% on apparel & audio',
-    titleZh: 'Prime 会员独享\n秋季狂欢大促 10.6-7',
-    subZh: '秋冬服饰与数码音响低至4折',
-    btnEn: 'Join Prime',
-    btnZh: '立即开通会员',
-    bgClass: 'bg-[#0071f5]',
-    bgImg: '/amazon_official/b1_bg.png',
-    productImg: '/amazon_official/b1_product.png',
-    brand: 'AMAZON PRIME',
+    id: 'amazon_owala',
+    asin: 'B085DVNHHK',
+    categoryName: '家居生活 • Owala 专利吸管杯 A+ 结构图',
+    tag: '💧 Patented 2-Way Spout',
+    titleEn: 'The FreeSip® Spout\nSip or Swig',
+    subEn: 'Sip with built-in straw or chug upright',
+    titleZh: 'Owala FreeSip®\n专利双饮水嘴结构',
+    subZh: '直饮大口畅饮 / 隐藏吸管优雅慢饮',
+    feature1En: 'Triple-Layer Insulation',
+    feature1Zh: '三层真空锁冷 24小时冰爽',
+    feature2En: 'Cup Holder Friendly',
+    feature2Zh: '适配车载杯架 防漏锁扣设计',
+    btnEn: 'VIEW MECHANISM',
+    btnZh: '结构分解视图',
+    bgImg: '/amazon_real_layers/owala_bg.png',
+    productImg: '/amazon_real_layers/owala_product.png',
+    brand: 'OWALA',
     lpType: 'translate',
-    lpBadge: '🌐 真实出海多语种翻译',
+    lpBadge: '🌐 英文参数图一键地道中文/日文翻译',
   },
   {
-    id: 'amazon_b5',
-    tag: 'Trending now',
-    titleEn: 'Shop fall styles\nin brown tones',
-    subEn: 'Leather jackets, sneakers & sets',
-    titleZh: '当季秋冬热卖\n复古大地色系穿搭',
-    subZh: '真皮夹克、板鞋与格纹短裙',
-    btnEn: 'SHOP COLLECTION',
-    btnZh: '进入专题',
-    bgClass: 'bg-[#9c7a64]',
-    bgImg: '/amazon_official/b5_bg.png',
-    productImg: '/amazon_official/b5_product.png',
-    brand: 'TRENDING FASHION',
-    lpType: 'remove-logo',
-    lpBadge: '🛡️ 品牌标与水印无痕抹除',
-  },
-  {
-    id: 'amazon_med',
-    tag: 'Korean Skincare Bestseller',
-    titleEn: 'Hyaluronic Acid\nPlumped Skin',
-    subEn: 'Ceramides + 10 Types of HA',
-    titleZh: '深层玻尿酸补水\n打造嘭弹水光肌',
-    subZh: '高浓度神经酰胺 强化肌底屏障',
-    btnEn: 'SHOP MEDICUBE',
+    id: 'amazon_medicube',
+    asin: 'B09V7Z4TJG',
+    categoryName: '美妆个护 • Medicube 全球榜首海报',
+    tag: '#1 Global Best Seller',
+    titleEn: 'Zero Pore Pad 2.0\nOver 10M Units Sold',
+    subEn: 'Dual-Textured AHA 4.5% & BHA 0.45%',
+    titleZh: '毛孔爽肤棉片 2.0\n全球累计热销超千万罐',
+    subZh: '果酸 AHA 4.5% + 水杨酸 BHA 深入毛孔',
+    feature1En: 'Nearly 5 units sold every min',
+    feature1Zh: '全球平均每分钟售出 5 罐',
+    feature2En: 'Embossed & Silky Dual Side',
+    feature2Zh: '压花面去角质 + 丝滑面补水修护',
+    btnEn: 'ORDER NOW',
     btnZh: '立即购买',
-    bgClass: 'bg-[#e9f4fc]',
-    bgImg: '/amazon_official/med_bg.png',
-    productImg: '/amazon_official/med_product.png',
-    iconsImg: '/amazon_official/med_icons.png',
+    bgImg: '/amazon_real_layers/medicube_bg.png',
+    productImg: '/amazon_real_layers/medicube_product.png',
     brand: 'MEDICUBE',
     lpType: 'white-background',
     lpBadge: '⚪️ 切换亚马逊纯白底 (RGB 255)',
   },
+  {
+    id: 'amazon_hydrojug',
+    asin: 'B0D3XQ1889',
+    categoryName: '亚马逊首页 • Hydrojug 独家专题海报',
+    tag: 'Only on Amazon',
+    titleEn: 'Shop the polka\ndot collection',
+    subEn: 'Triple-wall insulated tumblers',
+    titleZh: '亚马逊独家首发\n波点经典款系列保温杯',
+    subZh: '三层不锈钢真空锁温 防漏盖',
+    feature1En: 'Limited Edition Design',
+    feature1Zh: '2026 秋冬限量版波点印花',
+    feature2En: 'BPA Free & Dishwasher Safe',
+    feature2Zh: '食品级无BPA 可机洗',
+    btnEn: 'EXPLORE HYDROJUG',
+    btnZh: '进入品牌旗舰店',
+    bgImg: '/amazon_official/b2_bg.png',
+    productImg: '/amazon_official/b2_product.png',
+    logoImg: '/amazon_official/b2_logo.png',
+    brand: 'HYDROJUG',
+    lpType: 'remove-logo',
+    lpBadge: '🛡️ 供应商Logo与标语独立抹除',
+  },
 ];
 
 export default function AmazonShowcase() {
-  const [active3D, setActive3D] = useState<Record<string, boolean>>({ amazon_b2: true, amazon_b1: false });
+  const [active3D, setActive3D] = useState<Record<string, boolean>>({
+    amazon_anker: true,
+    amazon_owala: false,
+    amazon_medicube: true,
+    amazon_hydrojug: false,
+  });
   const [activeLang, setActiveLang] = useState<Record<string, string>>({});
   const [logoHidden, setLogoHidden] = useState<Record<string, boolean>>({});
   const [whiteBg, setWhiteBg] = useState<Record<string, boolean>>({});
@@ -114,20 +142,20 @@ export default function AmazonShowcase() {
   };
 
   return (
-    <section className="py-20 bg-[#080d19] border-t border-slate-800 text-slate-100">
+    <section className="py-20 bg-[#060a14] border-t border-slate-800 text-slate-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Banner header */}
         <div className="text-center max-w-3xl mx-auto mb-14">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-300 text-xs font-semibold uppercase tracking-wider mb-4">
             <Sparkles className="w-4 h-4 text-amber-400" />
-            100% 真实亚马逊首页海报与 A+ 详情图实测
+            100% 真实亚马逊官方详情图与 A+ Infographic 实拆实测
           </div>
           <h2 className="text-3xl sm:text-5xl font-black text-white tracking-tight mb-4">
-            真实亚马逊图实拆：4 层独立物理通道
+            真实亚马逊图实拆：4 层物理独立通道
           </h2>
           <p className="text-sm sm:text-base text-slate-400 leading-relaxed">
-            取自亚马逊美国站首页官方海报（Hydrojug 爆款保温杯、Prime Big Deals、秋季穿搭、Medicube 护肤）！
+            直接取自亚马逊大牌真实 Listing（Anker 快充参数图、Owala 专利水杯分解图、Medicube 榜首图、Hydrojug 专题海报）！
             图中的 **每一行文字均可直接点选打字修改**，商品实物立体剥离，支持 3D 景深拉伸与全网一键合成导出！
           </p>
         </div>
@@ -144,6 +172,7 @@ export default function AmazonShowcase() {
             const title = isZh ? card.titleZh : card.titleEn;
             const sub = isZh ? card.subZh : card.subEn;
             const btn = isZh ? card.btnZh : card.btnEn;
+            const f1 = isZh ? card.feature1Zh : card.feature1En;
 
             return (
               <div
@@ -153,17 +182,21 @@ export default function AmazonShowcase() {
                 {/* Header */}
                 <div className="flex items-center justify-between text-[11px] mb-3">
                   <span className="font-mono text-cyan-400 font-bold bg-cyan-950/80 px-2 py-0.5 rounded border border-cyan-500/30">
-                    AMAZON LIVE
+                    ASIN: {card.asin}
                   </span>
                   <span className="px-2 py-0.5 rounded bg-slate-800 text-slate-300 font-medium">
                     {card.lpBadge}
                   </span>
                 </div>
 
+                <div className="text-[10px] text-slate-400 font-medium mb-1 truncate">
+                  {card.categoryName}
+                </div>
+
                 {/* 3D Canvas Stage */}
                 <div className="my-1" style={{ perspective: '1100px' }}>
                   <div
-                    className="relative w-full h-[430px] rounded-xl overflow-hidden border border-slate-700/60 transition-transform duration-700 select-none"
+                    className="relative w-full h-[450px] rounded-xl overflow-hidden border border-slate-700/60 transition-transform duration-700 select-none bg-slate-900"
                     style={{
                       transformStyle: 'preserve-3d',
                       transform: is3D ? 'rotateY(-24deg) rotateX(15deg) scale(0.85)' : 'none',
@@ -172,7 +205,7 @@ export default function AmazonShowcase() {
                     {/* Layer 4: Background */}
                     <div
                       className={`absolute inset-0 transition-colors duration-300 ${
-                        isWhite ? 'bg-white' : card.bgClass
+                        isWhite ? 'bg-white' : ''
                       }`}
                       style={{
                         transform: is3D ? 'translateZ(0px)' : 'none',
@@ -187,18 +220,18 @@ export default function AmazonShowcase() {
                         />
                       )}
                       {is3D && (
-                        <div className="absolute top-2 left-2 px-1.5 py-0.5 rounded bg-slate-900/80 text-[9px] text-slate-400 font-mono">
-                          04 场景原底
+                        <div className="absolute top-2 left-2 px-1.5 py-0.5 rounded bg-slate-900/80 text-[9px] text-slate-400 font-mono z-30">
+                          04 场景原底 (可一键换白)
                         </div>
                       )}
                     </div>
 
                     {/* Layer 3: Subject Products (Real Camera Shot) */}
                     <div
-                      className="absolute inset-0 flex items-end justify-center pointer-events-none transition-all duration-500"
+                      className="absolute inset-0 flex items-center justify-center pointer-events-none transition-all duration-500"
                       style={{
-                        transform: is3D ? 'translateZ(30px)' : 'none',
-                        filter: is3D ? 'drop-shadow(-15px 20px 25px rgba(0,0,0,0.4))' : 'none',
+                        transform: is3D ? 'translateZ(35px)' : 'none',
+                        filter: is3D ? 'drop-shadow(-15px 20px 25px rgba(0,0,0,0.45))' : 'none',
                       }}
                     >
                       <img
@@ -207,8 +240,8 @@ export default function AmazonShowcase() {
                         className="w-full h-full object-contain"
                       />
                       {is3D && (
-                        <div className="absolute bottom-3 right-3 px-1.5 py-0.5 rounded bg-emerald-950/90 border border-emerald-500/40 text-[9px] text-emerald-300 font-mono">
-                          03 真实商品主体层
+                        <div className="absolute bottom-3 right-3 px-1.5 py-0.5 rounded bg-emerald-950/90 border border-emerald-500/40 text-[9px] text-emerald-300 font-mono z-30">
+                          03 亚马逊真实商品主体
                         </div>
                       )}
                     </div>
@@ -218,7 +251,7 @@ export default function AmazonShowcase() {
                       <div
                         className="absolute inset-0 pointer-events-none transition-all duration-300"
                         style={{
-                          transform: is3D ? 'translateZ(55px)' : 'none',
+                          transform: is3D ? 'translateZ(60px)' : 'none',
                         }}
                       >
                         <img
@@ -227,7 +260,7 @@ export default function AmazonShowcase() {
                           className="w-full h-full object-contain"
                         />
                         {is3D && (
-                          <div className="absolute top-24 right-3 px-1.5 py-0.5 rounded bg-amber-950/90 border border-amber-500/40 text-[9px] text-amber-300 font-mono">
+                          <div className="absolute top-24 right-3 px-1.5 py-0.5 rounded bg-amber-950/90 border border-amber-500/40 text-[9px] text-amber-300 font-mono z-30">
                             02 品牌Logo(可抹除)
                           </div>
                         )}
@@ -240,7 +273,7 @@ export default function AmazonShowcase() {
                         is3D ? 'border-2 border-dashed border-blue-500/80 bg-white/5' : ''
                       }`}
                       style={{
-                        transform: is3D ? 'translateZ(75px)' : 'none',
+                        transform: is3D ? 'translateZ(85px)' : 'none',
                       }}
                     >
                       <div>
@@ -250,7 +283,7 @@ export default function AmazonShowcase() {
                           </span>
                         )}
                         <div
-                          className="text-[11px] font-medium text-slate-800 tracking-tight mb-1 outline-none hover:ring-2 hover:ring-cyan-400 p-0.5 rounded cursor-text"
+                          className="text-[11px] font-bold text-slate-800 tracking-tight mb-1 outline-none hover:ring-2 hover:ring-cyan-400 p-0.5 rounded cursor-text"
                           contentEditable
                           suppressContentEditableWarning
                         >
@@ -272,8 +305,17 @@ export default function AmazonShowcase() {
                         </p>
                       </div>
 
-                      {/* Small Button on Card */}
-                      <div className="z-10">
+                      {/* Feature Badge or Button */}
+                      <div className="z-10 flex flex-col gap-1 items-start">
+                        {f1 && (
+                          <span
+                            className="inline-block px-2 py-0.5 rounded bg-white/90 backdrop-blur text-[9px] font-bold text-slate-800 border border-slate-300 shadow-sm outline-none hover:ring-2 hover:ring-blue-500 cursor-text"
+                            contentEditable
+                            suppressContentEditableWarning
+                          >
+                            {f1}
+                          </span>
+                        )}
                         <span
                           className="inline-block px-2.5 py-1 rounded-full text-[10px] font-bold bg-[#ffcf00] text-black shadow-sm outline-none hover:ring-2 hover:ring-blue-500 cursor-text"
                           contentEditable

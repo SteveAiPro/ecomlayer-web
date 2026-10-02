@@ -513,12 +513,12 @@ export default function True3DExplodedStage() {
                 width: `${currentCase.stageWidth}px`,
                 height: `${currentCase.stageHeight}px`,
                 transformStyle: 'preserve-3d',
-                transform: `scale(${is3DMode ? 0.78 : 0.95}) rotateY(${baseRotateY}deg) rotateX(${baseRotateX}deg) rotateZ(${baseRotateZ}deg) translateX(${stageTranslateX - 25}px)`,
+                transform: `scale(${is3DMode ? 0.72 : 0.95}) rotateY(${baseRotateY}deg) rotateX(${baseRotateX}deg) rotateZ(${baseRotateZ}deg) translateX(${stageTranslateX - 60}px)`,
               }}
             >
               {/* ================= LAYER 4: INPAINTED BACKGROUND (BOTTOM) ================= */}
               <div
-                className={`absolute inset-0 rounded-2xl transition-all duration-500 overflow-hidden ${
+                className={`absolute inset-0 rounded-2xl transition-all duration-500 overflow-visible ${
                   isWhiteBg ? 'bg-white' : 'bg-slate-900'
                 }`}
                 style={{
@@ -544,7 +544,7 @@ export default function True3DExplodedStage() {
                 {is3DMode && (
                   <div
                     className="absolute top-4 right-0 px-3.5 py-1.5 rounded-lg bg-slate-900/95 border border-slate-500/50 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
-                    style={{ transform: 'translate(102%, 0) translateZ(15px)' }}
+                    style={{ transform: 'translate(92%, 0) translateZ(15px)' }}
                   >
                     <span className="font-mono font-black text-slate-400 text-xs">04</span>
                     <span className="text-xs font-bold text-slate-200">{currentCase.l4_name}</span>
@@ -556,7 +556,7 @@ export default function True3DExplodedStage() {
               {/* ================= LAYER 3: REAL CAMERA PRODUCT SUBJECT ================= */}
               {!hideProduct && (
                 <div
-                  className="absolute inset-0 rounded-2xl transition-all duration-500 pointer-events-none"
+                  className="absolute inset-0 rounded-2xl transition-all duration-500 pointer-events-none overflow-visible"
                   style={{
                     transformStyle: 'preserve-3d',
                     transform: `translateZ(${zDepths.l3}px)`,
@@ -580,7 +580,7 @@ export default function True3DExplodedStage() {
                   {is3DMode && (
                     <div
                       className="absolute top-20 right-0 px-3.5 py-1.5 rounded-lg bg-slate-900/95 border border-cyan-500/50 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
-                      style={{ transform: 'translate(102%, 0) translateZ(15px)' }}
+                      style={{ transform: 'translate(92%, 0) translateZ(15px)' }}
                     >
                       <span className="font-mono font-black text-cyan-400 text-xs">03</span>
                       <span className="text-xs font-bold text-slate-200">{currentCase.l3_name}</span>
@@ -593,7 +593,7 @@ export default function True3DExplodedStage() {
               {/* ================= LAYER 2: LOGO / ELEMENTS (OPTIONAL) ================= */}
               {currentCase.l2_elements && !hideLogo && (
                 <div
-                  className="absolute inset-0 rounded-2xl transition-all duration-500 pointer-events-none"
+                  className="absolute inset-0 rounded-2xl transition-all duration-500 pointer-events-none overflow-visible"
                   style={{
                     transformStyle: 'preserve-3d',
                     transform: `translateZ(${zDepths.l2}px)`,
@@ -614,7 +614,7 @@ export default function True3DExplodedStage() {
                   {is3DMode && (
                     <div
                       className="absolute top-36 right-0 px-3.5 py-1.5 rounded-lg bg-slate-900/95 border border-purple-500/50 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
-                      style={{ transform: 'translate(102%, 0) translateZ(15px)' }}
+                      style={{ transform: 'translate(92%, 0) translateZ(15px)' }}
                     >
                       <span className="font-mono font-black text-purple-400 text-xs">02</span>
                       <span className="text-xs font-bold text-slate-200">{currentCase.l2_name}</span>
@@ -626,7 +626,7 @@ export default function True3DExplodedStage() {
 
               {/* ================= LAYER 1: EDITABLE TYPOGRAPHY (TOP PLANE) ================= */}
               <div
-                className={`absolute inset-0 rounded-2xl p-6 flex flex-col justify-between transition-all duration-500 ${
+                className={`absolute inset-0 rounded-2xl p-6 flex flex-col justify-between transition-all duration-500 overflow-visible ${
                   is3DMode
                     ? 'border-2 border-amber-500/60 bg-white/[0.03] backdrop-blur-[0.5px]'
                     : 'border-transparent bg-transparent'
@@ -640,7 +640,7 @@ export default function True3DExplodedStage() {
                 {is3DMode && (
                   <div
                     className="absolute top-4 right-0 px-3.5 py-1.5 rounded-lg bg-slate-900/95 border border-amber-500/60 backdrop-blur-md shadow-2xl flex items-center gap-2 pointer-events-none z-30 whitespace-nowrap"
-                    style={{ transform: 'translate(102%, 0) translateZ(15px)' }}
+                    style={{ transform: 'translate(92%, 0) translateZ(15px)' }}
                   >
                     <span className="font-mono font-black text-amber-400 text-xs">01</span>
                     <span className="text-xs font-bold text-amber-200">{currentCase.l1_name}</span>

@@ -50,6 +50,71 @@ interface ExplodedCase {
 
 const CASES: ExplodedCase[] = [
   {
+    id: 'drlucel',
+    brand: 'DR. LUCEL',
+    asin: 'B0CP28YF7X',
+    category: '抗老护肤 • 早C晚A VC面霜+视黄醇精华黄金组合',
+    aspectRatio: '1:1',
+    stageWidth: 560,
+    stageHeight: 560,
+    badge: '早C晚A抗老修护',
+    tagNum: '01',
+    l4_bg: '/amazon_real_layers/drlucel_layer4_bg.png',
+    l3_product: '/amazon_real_layers/drlucel_layer3_product.png',
+    l2_elements: '/amazon_real_layers/drlucel_layer2_botanicals.png',
+    l4_name: '智能无痕补全的温润浅粉棚拍底图',
+    l3_name: '左旋VC面霜+视黄醇精华双瓶与水晶托盘主体',
+    l2_name: '左侧植物量杯 + 右侧樱花与悬浮光晕微囊',
+    l1_name: '真实排版可编辑多行文案与标题',
+    defaultTexts: {
+      badge: '早C晚A组合',
+      title: '早C晚A黄金组合\n科学分时精准护肤',
+      subtitle: '☼ 润亮肤色 | 淡纹紧致 ☾',
+      feature1: '☼ 早C：左旋VC面霜 • 焕亮保湿 水润光泽',
+      feature2: '☾ 晚A：视黄醇精华液 • 淡纹紧致 细致毛孔',
+      feature3: '日夜协同双向赋能，深层肌底紧致饱满',
+      cta: '立即开启日C夜A',
+    },
+    translations: {
+      zh: {
+        badge: '早C晚A组合',
+        title: '早C晚A黄金组合\n科学分时精准护肤',
+        subtitle: '☼ 润亮肤色 | 淡纹紧致 ☾',
+        feature1: '☼ 早C：左旋VC面霜 • 焕亮保湿 水润光泽',
+        feature2: '☾ 晚A：视黄醇精华液 • 淡纹紧致 细致毛孔',
+        feature3: '日夜协同双向赋能，深层肌底紧致饱满',
+        cta: '立即开启日C夜A',
+      },
+      en: {
+        badge: 'AM: Vit C + PM: Retinol',
+        title: 'AM / PM Duo:\nTargeted Skin Care',
+        subtitle: '☼ Brighten Skin | Smooth Lines ☾',
+        feature1: '☼ AM: L-Ascorbic Acid Cream - Brightens & Hydrates',
+        feature2: '☾ PM: Pure Retinol Serum - Firms & Tightens Pores',
+        feature3: 'Clinically proven 24-Hour Day & Night synergy',
+        cta: 'SHOP AM/PM DUO',
+      },
+      ja: {
+        badge: '朝ビタ夜レチセット',
+        title: '朝ビタ夜レチ習慣\n素肌が目覚める2ステップ',
+        subtitle: '☼ 透明感アップ | ハリ・弾力ケア ☾',
+        feature1: '☼ 朝ケア：高浸透VCクリーム • キメを整えツヤ肌キープ',
+        feature2: '☾ 夜ケア：純粋レチノール美容液 • 小じわ毛穴集中ケア',
+        feature3: '朝と夜のWアプローチでふっくら弾むような素肌へ',
+        cta: '詳細を見る',
+      },
+      es: {
+        badge: 'Dúo Día Vit C + Noche Retinol',
+        title: 'Rutina Día y Noche:\nTratamiento Experto',
+        subtitle: '☼ Ilumina el Tono | Antiarrugas ☾',
+        feature1: '☼ Día: Crema Ácido L-Ascórbico - Hidrata e Ilumina',
+        feature2: '☾ Noche: Serum Retinol 0.4% - Reafirma los Poros',
+        feature3: 'Sinergia 24h para una piel visiblemente rejuvenecida',
+        cta: 'COMPRAR DÚO',
+      },
+    },
+  },
+  {
     id: 'medicube',
     brand: 'MEDICUBE',
     asin: 'B09V7Z4TJG',
@@ -58,7 +123,7 @@ const CASES: ExplodedCase[] = [
     stageWidth: 560,
     stageHeight: 560,
     badge: '#1 Global Best Seller',
-    tagNum: '01',
+    tagNum: '02',
     l4_bg: '/amazon_real_layers/medicube_layer4_bg.png',
     l3_product: '/amazon_real_layers/medicube_layer3_jar.png',
     l2_elements: '/amazon_real_layers/medicube_layer2_icons.png',
@@ -308,10 +373,10 @@ const CASES: ExplodedCase[] = [
 ];
 
 export default function True3DExplodedStage() {
-  const [selectedCaseId, setSelectedCaseId] = useState<string>('medicube');
+  const [selectedCaseId, setSelectedCaseId] = useState<string>('drlucel');
   const [is3DMode, setIs3DMode] = useState<boolean>(true);
   const [isExpanded, setIsExpanded] = useState<boolean>(true);
-  const [currentLang, setCurrentLang] = useState<string>('en');
+  const [currentLang, setCurrentLang] = useState<string>('zh');
   const [isWhiteBg, setIsWhiteBg] = useState<boolean>(false);
   const [hideProduct, setHideProduct] = useState<boolean>(false);
   const [hideLogo, setHideLogo] = useState<boolean>(false);
